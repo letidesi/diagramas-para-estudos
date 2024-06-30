@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T14:45:49.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="hvJZt-rE5zLJCJnCOQdP" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T15:15:15.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="jtOixV17MS2ms8MgKGAu" version="24.6.4" type="github">
   <diagram name="Página-1" id="_Rmfx1wGyF7JmfhyM_Kk">
     <mxGraphModel dx="3773" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DWAZ5PBdlfh8lqweQ9Iz-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Medico&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="54" y="270" width="230" height="250" as="geometry" />
+          <mxGeometry x="54" y="270" width="230" height="260" as="geometry" />
         </mxCell>
         <mxCell id="DWAZ5PBdlfh8lqweQ9Iz-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;+id_medico (PK)&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;+id_endereco (FK)&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;+CRM&lt;br&gt;+especialidade&lt;br&gt;+nome&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;+telefone&lt;br&gt;+e-mail&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="DWAZ5PBdlfh8lqweQ9Iz-4">
-          <mxGeometry y="50" width="230" height="200" as="geometry" />
+          <mxGeometry y="50" width="230" height="210" as="geometry" />
         </mxCell>
         <mxCell id="DWAZ5PBdlfh8lqweQ9Iz-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Consulta&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="484" y="700" width="310" height="240" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="-180" y="640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DWAZ5PBdlfh8lqweQ9Iz-34" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;1:1&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="520" width="56" height="40" as="geometry" />
+          <mxGeometry x="170" y="530" width="56" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DWAZ5PBdlfh8lqweQ9Iz-36" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;n:1&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-190" y="990" width="60" height="30" as="geometry" />
