@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T19:19:11.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.6.4" etag="OO0NsAtVTNNZsnOXDgJ1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T22:52:51.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="1o23AG9Oz4zsWKmrbgI6" version="24.6.4" type="github">
   <diagram name="Página-1" id="Dr8HC9IEGXXNcYJVodCY">
-    <mxGraphModel>
+    <mxGraphModel dx="662" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h1f_iccQj-b964AAe7o2-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="134" y="160" width="560" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="h1f_iccQj-b964AAe7o2-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Painel Comunicação&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="268" y="180" width="246" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h1f_iccQj-b964AAe7o2-3" value="Mensagem" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="153" y="340" width="235" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="h1f_iccQj-b964AAe7o2-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;+contractOperationId&lt;br&gt;+artistId&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;+ value&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;+dateTimeOffSet&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;+type = Enviar, Responder&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;+HistoryMessages&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="h1f_iccQj-b964AAe7o2-3">
+          <mxGeometry y="50" width="235" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="h1f_iccQj-b964AAe7o2-12" value="Notificação" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="340" width="235" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="h1f_iccQj-b964AAe7o2-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;+userId&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;+ value&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;+dateTimeOffSet&lt;br&gt;+typeStyle = lida, não lida&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="h1f_iccQj-b964AAe7o2-12">
+          <mxGeometry y="50" width="235" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
